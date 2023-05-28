@@ -2,7 +2,7 @@
 
 👋 I’m Shruti
 
-👀 I’m interested in Data Science and Machine Learning
+👀 I’m interested in Data Science and Machine Learning/AI
 
 🌱 Currently learning to apply Data Science and Machine Learning to solve problems
 
