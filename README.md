@@ -1,6 +1,5 @@
-### Hi there 👋
-
-👋 I’m Shruti
+### Hi there 
+👋I’m Shruti
 
 👀 I’m interested in Data Science and Machine Learning/AI
 
