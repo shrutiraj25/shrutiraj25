@@ -1,8 +1,11 @@
 ### Hi there 👋
+
 👋 I’m Shruti
+
 👀 I’m interested in Data Science and Machine Learning
+
 🌱 Currently learning to apply Data Science and Machine Learning to solve problems
--->
+
 
 <!--
 **shrutiraj25/shrutiraj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
