@@ -2,7 +2,7 @@
 
 👀 I’m interested in Data Science and Machine Learning/AI
 
-🌱 Currently learning to apply Data Science to real world solve problems
+🌱 Currently learning to apply Data Science to solve  real world problems
 
 
 <!--
